@@ -11,18 +11,13 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { 
-  Smartphone, 
   Watch, 
   Trophy, 
-  Users, 
   Zap, 
   WifiOff,
-  Timer,
   Target,
-  Activity,
   Star,
   CheckCircle2,
-  Apple,
   ArrowRight,
   Sparkles,
   Shield,
